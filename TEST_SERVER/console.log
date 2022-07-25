@@ -1,0 +1,7 @@
+2022-01-26 00:23:07.020493: BIP1990I: Integration server 'TEST_SERVER' starting initialization; version '12.0.1.0' (64-bit) 
+2022-01-26 00:23:07.040187: BIP9905I: Initializing resource managers. 
+Listening for transport dt_socket at address: 9997
+2022-01-26 00:23:20.324822: BIP9906I: Reading deployed resources. 
+2022-01-26 00:23:24.034940: BIP2866I: IBM App Connect Enterprise administration security is inactive. 
+2022-01-26 00:23:24.056412: BIP3132I: The HTTP Listener has started listening on port '7600' for 'RestAdmin http' connections. 
+2022-01-26 00:23:24.058142: BIP1991I: Integration server has finished initialization. 
